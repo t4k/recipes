@@ -7,3 +7,5 @@
 - salt
 
 ## Instruction
+
+Mash it all up.
